@@ -1,0 +1,5 @@
+com/programming/service/productservice/repository/ProdeuctRepository.class
+com/programming/service/productservice/model/Product$ProductBuilder.class
+com/programming/service/productservice/model/Product.class
+com/programming/service/productservice/controller/ProductController.class
+com/programming/service/productservice/ProductServiceApplication.class
